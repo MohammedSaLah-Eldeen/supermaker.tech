@@ -1,0 +1,192 @@
+baseurl = "https://supermaker.com"
+title = "supermaker"
+theme = 'DoIt'
+languageCode = "en-us"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  # DoIt theme version
+  version = "0.2.X"
+  # DoIt CHANGED | 0.2.11 site default theme ("light", "dark", "black", "auto")
+  defaultTheme = "light"
+
+  [params.app]
+    # optional site title override for the app when added to an iOS home screen or Android launcher
+    title = "DoIt"
+    # whether to omit favicon resource links
+    noFavicon = false
+    # modern SVG favicon to use in place of older style .png and .ico files
+    svgFavicon = "img/astronaut.ico"
+    # Safari mask icon color
+    iconColor = "#5bbad5"
+    # Windows v8-10 tile color
+    tileColor = "#da532c"
+
+    [params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    desktopMode = "normal"
+    # mobile header mode ("fixed", "normal", "auto")
+    mobileMode = "auto"
+    # DoIt NEW | 0.2.11 Theme change mode
+    # theme change mode ("switch", "select")
+    themeChangeMode = "switch"
+    # DoIt NEW | 0.2.0 Header title config
+    [params.header.title]
+      # URL of the LOGO
+      logo = "img/astronaut.ico"
+      # title name
+      name = "supermaker"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # DoIt NEW | 0.2.5 whether to use typeit animation for title name
+      typeit = true
+
+  # Footer config
+  [params.footer]
+    enable = true
+    # DoIt NEW | 0.2.0 Custom content (HTML format is supported)
+    custom = 'supermaker'
+    # DoIt NEW | 0.2.0 whether to show Hugo and theme info
+    hugo = false
+    # DoIt NEW | 0.2.14 Hosted on (HTML format is supported)
+    # <a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreffer">GitHub Pages</a>
+    hostedOn = ''
+    # DoIt NEW | 0.2.0 whether to show copyright info
+    copyright = true
+    # DoIt NEW | 0.2.0 whether to show the author
+    author = true
+    # Site creation time
+    since = 2024
+    # ICP info only in China (HTML format is supported)
+    icp = ""
+    # license info (HTML format is supported)
+    license = ''
+
+
+  [params.home]
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      # URL of avatar shown in home page
+      # Place your avatar file under static or assets directory
+      # The filepath is relative to the static or assets directory
+      avatarURL = "img/astronaut-icon-3.png"
+      # URL the avatar links to
+      # DoIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
+      title = ""
+      # subtitle shown in home page
+      subtitle = "BE SUPER! |* Mohammed Salah"
+      # whether to use typeit animation for subtitle
+      typeit = true
+      # whether to show social links
+      social = true
+      # DoIt NEW | 0.2.0 disclaimer (HTML format is supported)
+      disclaimer = ""
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 8
+      # DoIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+      # default behavior when you don't set "hiddenFromHomePage" in front matter
+      defaultHiddenFromHomePage = false
+
+  [params.social]
+    Github = 'MohammedSaLah-Eldeen'
+    Linkedin = 'mohammedsalah-ai'
+
+    # DoIt NEW | 0.2.0 Search config
+  [params.search]
+    enable = true
+    # type of search engine ("algolia", "fuse")
+    type = "fuse"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    # DoIt NEW | 0.2.1 max number of results length
+    maxResultLength = 7
+    # DoIt NEW | 0.2.3 snippet length of the result
+    snippetLength = 30
+    # DoIt NEW | 0.2.1 HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # DoIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+
+   [params.search.fuse]
+    # DoIt NEW | 0.2.12 https://fusejs.io/api/options.html
+    isCaseSensitive = false
+    minMatchCharLength = 3
+    findAllMatches = true
+    location = 0
+    threshold = 0.3
+    distance = 100
+    ignoreLocation = false
+    useExtendedSearch = false
+    ignoreFieldNorm = false
+  [params.page]
+
+    [params.page.share]
+        enable = true
+        Twitter = true
+        Facebook = true
+        Linkedin = true
+        Whatsapp = true
+        Reddit = true
+
+    [params.page.toc]
+        # whether to enable the table of the contents
+        enable = true
+        # DoIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
+        keepStatic = false
+        # whether to make the table of the contents in the sidebar automatically collapsed
+        auto = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+
+# Author config
+[author]
+  name = "Mohammed Salah"
+  email = "MohammedSalah.SuperM159@gmail.com"
+  link = "https://www.linkedin.com/in/mohammedsalah-ai/"
+  avatar = "img/astronaut.ico"
+  gravatarEmail = ""
+
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false

@@ -1,4 +1,4 @@
-baseurl = "https://supermaker.com"
+baseurl = "https://blog.supermaker.tech"
 title = "supermaker"
 theme = 'DoIt'
 languageCode = "en-us"
@@ -128,8 +128,9 @@ languageCode = "en-us"
     ignoreLocation = false
     useExtendedSearch = false
     ignoreFieldNorm = false
+    
   [params.page]
-
+    seriesNavigation = true
     [params.page.share]
         enable = true
         Twitter = true
@@ -174,6 +175,14 @@ languageCode = "en-us"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "series"
+    pre = ""
+    post = ""
+    name = "Series"
+    url = "/series/"
+    title = ""
+    weight = 4
 
 # Author config
 [author]
@@ -190,3 +199,10 @@ languageCode = "en-us"
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+
+# Options for taxonomies
+[taxonomies]
+author = "authors"
+category = "categories"
+tag = "tags"
+series = "series"

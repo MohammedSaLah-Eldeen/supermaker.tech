@@ -3,8 +3,6 @@
 // ==============================
 @import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
 // ========== Global ========== //
@@ -12,7 +10,7 @@
 $global-font-family: 'Fira Code', 'Space Mono', monospace, system-ui, -apple-system, BlinkMacSystemFont, PingFang SC, Microsoft YaHei UI, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif !default;
 $global-font-size: 16px;
 $global-font-weight: 400;
-$global-line-height: 1.75rem;
+$global-line-height: 1.65rem;
 
 // Color of the background
 $global-background-color: #fff !default;
@@ -73,7 +71,7 @@ $header-background-color-dark: #252627 !default;
 $header-background-color-black: #000000 !default;
 
 // Font style of the header title
-$header-title-font-family: 'Nova Square', 'Lobster', 'Sacramento', 'Orbitron', monospace, $global-font-family !default;
+$header-title-font-family: 'Nova Square', 'Orbitron', monospace, $global-font-family !default;
 $header-title-font-size: 1.5rem !default;
 
 // Color of the hover header item

@@ -28,7 +28,7 @@ languageCode = "en-us"
     # desktop header mode ("fixed", "normal", "auto")
     desktopMode = "normal"
     # mobile header mode ("fixed", "normal", "auto")
-    mobileMode = "auto"
+    mobileMode = "normal"
     # DoIt NEW | 0.2.11 Theme change mode
     # theme change mode ("switch", "select")
     themeChangeMode = "switch"
@@ -74,7 +74,7 @@ languageCode = "en-us"
       # URL of avatar shown in home page
       # Place your avatar file under static or assets directory
       # The filepath is relative to the static or assets directory
-      avatarURL = "img/astronaut-same.webp"
+      avatarURL = "img/astronaut128.webp"
       # URL the avatar links to
       # DoIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
@@ -154,7 +154,7 @@ languageCode = "en-us"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
+    name = "posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
@@ -163,26 +163,26 @@ languageCode = "en-us"
     identifier = "tags"
     pre = ""
     post = ""
-    name = "Tags"
+    name = "<tags>"
     url = "/tags/"
     title = ""
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "categories"
     url = "/categories/"
     title = ""
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "series"
     pre = ""
     post = ""
-    name = "Series"
+    name = "series"
     url = "/series/"
     title = ""
-    weight = 4
+    weight = 2
 
 # Author config
 [author]

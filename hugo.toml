@@ -74,7 +74,7 @@ languageCode = "en-us"
       # URL of avatar shown in home page
       # Place your avatar file under static or assets directory
       # The filepath is relative to the static or assets directory
-      avatarURL = "img/l'astronaut.jfif"
+      avatarURL = "img/astronaut.webp"
       # URL the avatar links to
       # DoIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""

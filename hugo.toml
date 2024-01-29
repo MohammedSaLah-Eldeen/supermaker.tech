@@ -35,7 +35,7 @@ languageCode = "en-us"
     # DoIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "img/astronaut.ico"
+      logo = "img/astronaut-same.webp"
       # title name
       name = "supermaker"
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -74,7 +74,7 @@ languageCode = "en-us"
       # URL of avatar shown in home page
       # Place your avatar file under static or assets directory
       # The filepath is relative to the static or assets directory
-      avatarURL = "img/astronaut.webp"
+      avatarURL = "img/astronaut-same.webp"
       # URL the avatar links to
       # DoIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""

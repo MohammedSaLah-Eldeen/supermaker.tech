@@ -106,7 +106,7 @@ if you need to learn something, you might as well make sure that you will enjoy 
 
 > **Basically**, you need to struggle a bit to learn, to feel that you're learning new things, only then you'll feel the joy of learning but not to the point where you feel it's super painful to continue learning.
 
-#### Learning Intentions vs. Performance Measures.
+#### Learning Intentions vs. Performance Measures
 
 "*You're no magician, everything needs time and effort, no one gets it the first time. Embrace the struggle, hardwork and your journey*"
 
@@ -120,10 +120,20 @@ if you start by saying i want to build a big app like instagram or facebook righ
 > 
 > - In the middle, discover more, but challenge yourself to test your learned knowledge.
 > 
-> - At the end, you'll have learned the needed skills, more challenges will give you the correct experience.
-
-### Problem Solving
+> - At the end, you'll have learned the needed skills, more challenges will give more expertise.
 
 ### Communication for Impact
+
+No matter how hard I try, I can't remember how big is the number of bad conversions that I held. Those conversations were really terrible experinces and to be honest most of them went that way because I was a bad communicator, I always jump to conclusions and try to act as if I know a something completely to strengthen my point of view while not even thinking of the opinions of other people. Pathetic, isn't it? Well I tried to improve how I interact and present my ideas since I felt people who were open to discuss ideas and thoughts with me, began to avoid having more disscussions. Thankfully, after a bit of hardwork I was able to have more decent and fruitful disscussions. However, I felt something was missing, although I listen and try to understand people's opinion carefullly and I do my best to communicate my ideas and findings, still for a reason a large portion of my discussions were still bad. I knew I'm missing something!
+
+*Ready to know what is that thing?*
+
+it's the first the thing I learned in this section. which is Empathy!
+
+#### Empathy
+
+  
+
+### Problem Solving
 
 ### Digital Essentials

@@ -14,7 +14,7 @@ languageCode = "en-us"
 
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "DoIt"
+    title = "supermaker"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -35,7 +35,7 @@ languageCode = "en-us"
     # DoIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "img/astronaut.ico"
       # title name
       name = "supermaker"
       # you can add extra information before the name (HTML format is supported), such as icons

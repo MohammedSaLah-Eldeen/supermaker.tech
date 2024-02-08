@@ -6,8 +6,8 @@ lastmod: 2024-01-20T10:17:11+02:00
 draft: false
 description: "i really didn't expect to learn that much!"
 
-tags: ["problem solving", "adaptability & resilience", "digital transformation", "communication for impact"]
-categories: ["softskills"]
+tags: ["softskills", "problem solving", "adaptability & resilience", "digital transformation", "communication for impact"]
+categories: ["learning"]
 series: ["mckinsey"]
 
 hiddenFromHomePage: false
@@ -130,10 +130,171 @@ No matter how hard I try, I can't remember how big is the number of bad conversi
 
 it's the first the thing I learned in this section. which is Empathy!
 
-#### Empathy
+#### EMPATHY
 
+The first component to establish an effective communication
+
+It's the ability to imagine being in the other person's shoes to really understand their perspective, experience and feelings. Only when you establish this connection, you can have a fruitful discussion almost on everything.
+
+**Having an Over there mindset**
+
+- you try to always focus on the other person and the broader relationship. 
+
+- you try to always be collabrative.
+
+- you try to be collaborative with the other person.
+
+> Great communicators are attentive and curious. They take time to get to know people, ask questions, and listen.
+
+After you establish this connection by really understanding the other person's needs and concerns. You need to define what really is your aim of this interaction and how are you going to meet your needs and the other person's needs.
+
+#### PURPOSE
+
+People are always busy in a professional world, you need to make the most out of every single interaction as mush as possible. for this sake, you need to cut to the chase and get to the point. 
+
+Why are you having this conversations? it's best to have to have a shared purpose, so everyone is engaged and actively listening and responding. Purposes of an interaction commonly fall into one of five categories.
+
+- **Understanding**
   
+  Ensuring that everyone involved understands and is aligned with the work.
+
+- **Brainstorming**
+  
+  Creating a picture of the situation and facilitating problem solving.
+
+- **Rapport Building**
+  
+  Actively listening, learning about concerns and motivations and building a relationship.
+
+- **Reassurance**
+  
+  Building confidence in the project and the insights being developed.
+
+- **Decision Making**
+  
+  Providing the insight and space for everyone to make an informed decision on something.
+
+> To communicate professionally and efficiently, you need to define your purpose as specific as possible.
+
+ **Heads, Hearts, and Hands.**
+
+To define your purpose, it's very useful to ask yourself these three questions.
+
+1. **What do you want your audience to understand?**
+
+2. **How do you want your audience to feel?**
+
+3. **What do you want your audience to do?**
+
+If defining purpose is like an entrance to a conversation, then defining *Insight* is your exit out of it!
+
+#### INSIGHT
+
+Think of it simply as the desired things or the message that the other person should leave the conversation with.
+
+such as:
+
+- Important Info on something that they need to consider.
+
+- A decision they must make.
+
+- etc..
+
+for the other person to really understand your message. you don't just present it right away! It's advisible to provide your message in a structured and coherent manner. One of the most useful ways to do that is to use the *pyramid method*
+
+> **Pyramid Method**
+> 
+> One of the most useful methods to structure your arguments.
+
+it consists of:
+
+- **Governing Thought**
+  
+  One sentence statement of your message: a problem, a solution, etc..
+
+- **Key Line Statements**
+  
+  The why and how of that message.
+
+- **Supporting Evidence**
+  
+  To each one of *Key Line Statement*
+
+Although the Pyramid is presented from top down, It's usually built bottom up.
+
+> Going through your pyramid upside down answers *Why?* and 'How?' questions. However, going groud up helps answer the *'So what?'* question.
+
+This method ensures that you're creating a synthesis which is an answer "so what?" of all of your facts, and not a normal and not usually useful summary of your facts!
+
+In the previous 3 sections we've been going through the **EPIC** framework for effective communication. 
+
+so far we've covered:
+
+- E: Empathy
+
+- P: Purpose
+
+- I: Insight
+
+C which stands for conversation wasn't covered in the foundations as it'll be covered in the Advanced Level.
 
 ### Problem Solving
 
-### Digital Essentials
+Before diving in, let's think a little bit about the different kind of problems we encounter in our lives. Some problems are urgent thus requiring our immediate attention, others aren't as urgent and have a window of time, typically a couple of days or weeks to think and construct a solution. Some problems need a specific and final answer, whether the answer was purely quantitative or qualitative in nature, others require developing new creative ideas and innovations.
+
+Before contining, I'd like to make a claim.
+
+> **About 95% of people around the world solve problems based on hunch and instinct!**
+
+While solving problems this way isn't entirely a bad thing, following a systematic approach to problem solving would yield much more useful answers at the end because:
+
+- You would be able to identifiy all the possible elements of a problem, thus gaining:
+  
+     - complete understanding of the problem. 
+  
+     - the ability to focus on its important parts.
+  
+     - a sense of its potential solutions and uncertainties.
+
+- You would be able to save more time and effort as going through a step-by-step approach efficiently guides you throught your problem solving journey.    
+
+#### Established Approaches
+
+- **Hypothesis-led**
+  
+  A flexible, scalable, broadly
+  applicable seven-step approach.
+
+- **Domain IP-led**
+  
+  An accelerated version of the
+  hypothesis-led approach, requiring expertise
+  relevant to the problem.
+
+- **Advanced Analytics**
+  
+  Approaches to arrive at
+  non-obvious insights from big data.
+
+- **Design Thinking**
+  
+  A people-centric approach
+  with an emphasis on prototyping and user
+  feedback.
+
+- **Engineering**
+  
+  An experiment-based approach
+  that uses rapid prototyping to de-risk
+
+In the course we've only taken a simple introduction on the **Hypothesis-led Approach** and we'll dive deeply into it in the advanced phase!
+
+![forward provides a path to easy sucess](img/img-posts/mckinsey-forward-foundation/Success.jpg "I feel really motivated and happy!")
+
+No matter what I say, truly the amount and quality of the information and guidance provided in the **Forward** program is really worth its weight in gold!
+
+At the end, I'd like to thank you for reading this blog post I really appreciate it and you're the best!
+
+> **Thanks again! and bye!**
+
+**Astrodev**.

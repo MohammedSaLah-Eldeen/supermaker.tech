@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Authors - Author - supermaker</title>
+        <link>http://localhost:55555/authors/</link>
+        <description>Authors - Author - supermaker</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>MohammedSalah.SuperM159@gmail.com (Mohammed Salah)</managingEditor>
+            <webMaster>MohammedSalah.SuperM159@gmail.com (Mohammed Salah)</webMaster><atom:link href="http://localhost:55555/authors/" rel="self" type="application/rss+xml" /></channel>
+</rss>

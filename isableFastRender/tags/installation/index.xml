@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>installation - Tag - supermaker</title>
-        <link>http://localhost:55555/tags/installation/</link>
-        <description>installation - Tag - supermaker</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>MohammedSalah.SuperM159@gmail.com (Mohammed Salah)</managingEditor>
-            <webMaster>MohammedSalah.SuperM159@gmail.com (Mohammed Salah)</webMaster><atom:link href="http://localhost:55555/tags/installation/" rel="self" type="application/rss+xml" /></channel>
-</rss>

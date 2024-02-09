@@ -139,7 +139,7 @@ After you complete all the city's tasks, you'll unlock the
 
 ![](img/img-posts/aws-cloud-quest/cloudquest-claim-badge.png "yay!")
 
-You can see my badge here at [Credly](https://www.credly.com/earner/earned/badge/1b49faa0-6376-4e01-ad95-d9967a9f2ece).
+You can see my badge here at [Credly](https://www.credly.com/badges/1b49faa0-6376-4e01-ad95-d9967a9f2ece/public_url).
 
 I absolutely loved every moment of playing this game! I learnd all the core cloud concepts practically while solving real world scenarios.
 

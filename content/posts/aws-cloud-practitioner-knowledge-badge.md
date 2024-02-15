@@ -1,5 +1,4 @@
 ---
-
 title: "AWS Cloud Practitioner Knowledge Badge"
 subtitle: "Your main gateway to understand the cloud!"
 date: 2024-02-13T12:56:02+02:00
@@ -14,8 +13,8 @@ series: ["cloud"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "img/img-posts/aws-cloud-practitioner-knowledge-badge/framework-cover.jpg"
-featuredImagePreview: "img/img-posts/aws-cloud-practitioner-knowledge-badge/aws-depth.jpg"
+featuredImage: "img/img-posts/aws-cloud-practitioner-knowledge-badge/aws-depth.jpg"
+featuredImagePreview: "img/img-posts/previews/aws-cloud-practitioner-preview.png"
 
 toc:
   enable: true
@@ -88,23 +87,15 @@ This learning path consists of 6 courses. I'll talk briefly on what you can expe
   
   This is the exam part of the learning path that you need to pass in order to get your knowledge badge.
 
-
-
 > If you take your time enough with the second course you can expect going through the rest of courses really fast!
 
 **so I encourge you to take your time in the second course as it'll prove the most useful for you!**
-
-
 
 ## Access my Notes!
 
 I took quite a bit of time to go through the content of this learning path and the game! I really enjoyed learning all of this a lot! I put a lot of effort into making my notes and I really love to share them!
 
-
-
 I created a comprehensive file of notes - about 1154 lines - in markdown format `.md` it contains everything I learned and a lot of different external links to AWS docs and other sites that goes beyond the course materials.
-
-
 
 If you wish to access it, you can find it on my github repo `astrodev-notes` then navigate to file `AWS Cloud Practitioner Essentials.md`
 
@@ -114,16 +105,12 @@ If you wish to access it, you can find it on my github repo `astrodev-notes` the
 > 
 > [AWS Cloud Practitioner Essentials notes](https://github.com/MohammedSaLah-Eldeen/astrodev-notes/blob/main/AWS%20Cloud%20Practitioner%20Essentials.md)
 
-
-
-
-
 ## Let's go!
 
 you can access this amazing learning path via the `AWS Skill Builder` at [Cloud Essentials - Knowledge Badge](https://explore.skillbuilder.aws/learn/learning_plan/view/82/cloud-essentials-learning-plan)
-![](img/img-posts/aws-cloud-practitioner-knowledge-badge/aws-depth.jpg)
 
-----
+![](img/img-posts/aws-cloud-practitioner-knowledge-badge/AWS%20cloud%20practitioner%20badge.png)
+
 At the end, I'd like to thank you for reading this blog post I really appreciate it and you're the best!
 
 > **Thanks again! and bye!**

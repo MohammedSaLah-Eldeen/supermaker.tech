@@ -14,7 +14,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 featuredImage: "img/img-posts/aws-cloud-quest/cloudquest-loading.png"
-featuredImagePreview: "img/img-posts/aws-cloud-quest/cloudquest-begincrop.png"
+featuredImagePreview: "img/img-posts/previews/aws-cloud-quest-preview.png"
 
 toc:
   enable: true

@@ -51,7 +51,7 @@ If your goal was to get a new top-notch model architecture on your dataset, then
 
 from the `Researcher` mindset: **experimentaing with different models and ideas to develop new architectures** in order to get the best performance on a benchmark or dataset.
 
-to the `Engineer` mindset: **developing a fully scalable, reliable system** that uses a model inside ot it to solve a problem.
+to the `Engineer` mindset: **developing a fully scalable, reliable system** that uses a model inside of it to solve a problem.
 
 ## MLOps
 
@@ -95,7 +95,7 @@ It's the first step in any Machine learning project that involves defining your 
 
 .
 
-**For example,** let's say that an online shopping platform is looking to enable customers to navigate their website more easily, so it's much more easier to buy and look through the different available items.
+**For example,** let's say that an online shopping platform is looking to enable customers to navigate their website more easily, so it's much more easier to buy and look through the different available products.
 
 **You could brainstorm the following different solutions**
 
@@ -105,11 +105,11 @@ It's the first step in any Machine learning project that involves defining your 
 
 - *create a system that analyzes how the customers navigate the website*,
   
-  to predict and recommend the different places a customer might want to navigate.
+  to predict and recommend the different places/sections of the website a customer might want to navigate to.
 
-- *create a recommendation system to recommend products that're closer to a customer spendings*
+- *create a recommendation system to recommend products that're closer to customers spending*
   
-  because you'll make it easier for customers to quickly see what they can affort.
+  because you'll make it easier for customers to quickly find the products with their preferred budget.
 
 .
 
@@ -137,13 +137,13 @@ as you can see, there're primarliy four steps in this process.
 
 - Brainstorm **Business** *Problems*.
   
-  In most cases, your client will already have a problem that's why they reached out to you in the first place!
+  In most cases, your client will already have identified a problem, that's why they reached out to you in the first place!
   
   However, sometimes the client problem might be vague and not well-defined (e.g. Increasing Revenue) in this case you could ask your client the following question:
   
   **What are the top things that you wish working better and you think they have a direct relation to your end goal?**
   
-  > In some cases, asking questions to narrow down and to define some real problems is esstantial to to all of the MLOps life cycle.
+  > Always, ask the right questions to clearly define real problems.
 
 - Brainstorm **AI** *solutions*.
   
@@ -151,13 +151,13 @@ as you can see, there're primarliy four steps in this process.
 
 - Assess **Feasibility** and **Value**
   
-  Once you've a set of possible solutions you need to go through them one by one and assess their feasibility and value.
+  Once you have a set of possible solutions you need to go through them one by one and assess their feasibility and value.
   
   `Feasibilitiy`
   
-  Is trying to assess if a solution can be implemented in reality, 
+  Is trying to assess and understand if a solution can be implemented, given the problem complexity and constraints 
   
-  there are a lot of dimensions that you would need to consider!
+  there are a lot of dimensions that you need to consider!
   
      - Is the required data for this solution is available?
   
@@ -171,7 +171,7 @@ as you can see, there're primarliy four steps in this process.
   
      - cols: the required data type for a solution.
   
-     - rows: whether your client already has a system or not.
+     - rows: whether your client already has an existing system or not.
   
   |          | Unstructured                 | Structured                                       |
   |:--------:| ---------------------------- | ------------------------------------------------ |
@@ -180,33 +180,39 @@ as you can see, there're primarliy four steps in this process.
   
   **`HLP`**: given the same data, **can a human**, perform the task?
   
-  **`History of the Project`**: can give great insights whether a solution is able to achieve something or not.
+  **`History of the Project`**: can give great insights on whether a solution is able to achieve the needed results or not.
   
   .
   
-  **For example,** suppose your client has a recommendation system built with algorithm `A` you figured that for some problems that increasing the performance of this model to **85%** accuracy would solve the problem. 
+  **For example,** suppose your client has a recommendation system built with algorithm `A`. Let's say you figured that for a particular problem that increasing the performance of this model to **85%** would it. 
   
   ![](img/img-posts/decoded-mlops-in-plain-english/previous-project-records.png "Previous Project Performance")
   
-  You could then try to guess what the next performance will be and based on that you could reject this algorithm and try to look for another.
+  You could then try to guess what the next performance will be. Based on that you could reject this algorithm and try to look for another.
   
-  **In this plot**, the algorithm was getting more and more flat on the 70% mark. Trying to push it to 85% seems not possible, and therefore this algorithm is rejected.
+  **In this plot**, the performance has almost hit a plateau on the 70% mark. Trying to push it to 85% seems unfeasible, therefore this algorithm is rejected.
   
   **`Value`**
   
-  which is simply how much can this system could contribute to solving the problem.
+  which is simply how much is this system able to contribute to solving the problem.
   
-  Some solutions offer more intuitive and easy-to-implement solutions others are much harder to implement. You should need to ultimately think about the value! And not just pick a solution because it's easier!
+  Some solutions offer more intuitive and easy-to-implement hacks, others are much harder to implement, but may be much more worthwhile to pursue. Ultimately, you need to strike the right balance!
+  
+  Basically,
+  
+  > Don't try to pick a solution because it's relatively easier than the other ones.
 
 - Set **Milestones** and **Budget**
   
   milestones are like breaking down your solutions into smaller parts, kind of creating a plan or a to-do list.
   
-  **So you know** that you're on a correct and a logical track of implementing your solution.
+  **So you know** that you're on a correct and logical track of implementing your solution.
   
   Budgeting is also one of the most important things to consider, you need to carefully allocate your financial resources wisely to ensure that your project can be successful.
   
-  **Note: This final step heavily relies on the solution, model architecture and data you'll be using, so it really differs from one case to another**
+  **Note: This final step heavily depends on the solution, model architecture and data you'll be using, so it differs from one case to another** and there's no one clear and correct guide on how it should be implemented
+  
+  ---
 
 > **And that's it!**
 > 
@@ -220,6 +226,6 @@ You finished the first post of the `Decoded. MLOps in Plain English`! I hope you
 
 ![](img/img-posts/previews/decoded-mlops-1-preview.png)
 
-**Thanks again!**
+**Thanks!**
 
 Astrodev.

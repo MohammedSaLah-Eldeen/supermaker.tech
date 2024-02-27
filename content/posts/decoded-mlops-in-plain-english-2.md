@@ -110,7 +110,7 @@ Is the center of machine learning. Just like a strong foundation is crucial for 
 
 High data coverage ensures your model can handle the broad spectrum of possibilities users might throw its way. Imagine training a dog classifier on images of one dog breed only. While it might excel at identifying them, encounters with other breeds could leave it confused and unsure. Data with high coverage diversifies the training set, allowing the model to generalize and confidently navigate the diverse world of dogs (or whatever data you're dealing with)
 
-![](img\img-posts\reusables\dogs.jpg "different dog breeds")
+![](img/img-posts/reusables/dogs.jpg "different dog breeds")
 
 ##### CONSISTENCY
 
@@ -124,29 +124,29 @@ there're two types of consistency we need to think of.
   
   to better illustrate this kind of problem, look at the picture below.
   
-  ![](img\img-posts\decoded-mlops-in-plain-english-2\car-image.png "an image of the road")
+  ![](img/img-posts/decoded-mlops-in-plain-english-2/car-image.png "an image of the road")
   
   Suppose you're trying to build a model for vehicle detection, how would you annotate this picture?
   
   will you do it like this?
   
-  ![](img\img-posts\decoded-mlops-in-plain-english-2\labeler-1.png "labeling method #1")
+  ![](img/img-posts/decoded-mlops-in-plain-english-2/labeler-1.png "labeling method #1")
   
   or like this?
   
-  ![](img\img-posts\decoded-mlops-in-plain-english-2\labeler-2.png "labeling method #2")
+  ![](img/img-posts/decoded-mlops-in-plain-english-2/labeler-2.png "labeling method #2")
   
   while both cases could be equally good, if you try to feed the model with examples of both of them you're only going to confuse it! You need to pick one convention and stick to it. **If you're not the one labeling your data, you must provide clear labeling instructions to the labelers.**
 
 ### Big Data vs. Good Data
 
-![](img\img-posts\memes\ignore-mislabeled-data.png)
+![](img/img-posts/memes/ignore-mislabeled-data.png)
 
 While it's really important to have high quality data, **sometimes** you could tolerate some mislabeled and unclean data. Before you call me crazy, hear me out :)
 
 Big data, despite its occasional messiness, can often capture the big picture of how X influences Y because there's just so much of it. However, with smaller datasets, cleanliness is essential to ensure they accurately reflect the underlying relationship. to make it more clear, look at the following figure
 
-![](img\img-posts\decoded-mlops-in-plain-english-2\big-data-vs-good-data.png "big data vs. good data")
+![](img/img-posts/decoded-mlops-in-plain-english-2/big-data-vs-good-data.png "big data vs. good data")
 
 In the case of "good data", you're able to capture the underlying relation with only a few, high-quality examples. And in the case of "big data", although your data is noisy, with good model architecture, you're also able to capture the relation too!
 
